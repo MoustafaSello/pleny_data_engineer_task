@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6615a3481983b3ca002d2bd9"
+  },
+  "brandName": "Kihn Inc",
+  "yearFounded": 1712,
+  "headquarters": "Borerside",
+  "numberOfLocations": 49476
+},
+{
+  "_id": {
+    "$oid": "6615a3481983b3ca002d2bdb"
+  },
+  "brandName": "Bayer and Sons",
+  "yearFounded": 1941,
+  "headquarters": "Langworthchester",
+  "numberOfLocations": 66569
+},
+{
+  "_id": {
+    "$oid": "6615a3481983b3ca002d2bdd"
+  },
+  "brandName": "Kuhic - Kunde",
+  "yearFounded": 1874,
+  "headquarters": "South Filomena",
+  "numberOfLocations": 15147
+},
+{
+  "_id": {
+    "$oid": "6615a3481983b3ca002d2bdf"
+  },
+  "brandName": "Collins, Howe and Spencer",
+  "yearFounded": 1830,
+  "headquarters": "Moreno Valley",
+  "numberOfLocations": 65741
+},
+{
+  "_id": {
+    "$oid": "6615a3491983b3ca002d2be1"
+  },
+  "brandName": "Franecki LLC",
+  "yearFounded": 1695,
+  "headquarters": "Osinskiville",
+  "numberOfLocations": 17677
+},
+{
+  "_id": {
+    "$oid": "6615a3491983b3ca002d2be3"
+  },
+  "brandName": "Effertz LLC",
+  "yearFounded": 1690,
+  "headquarters": "Hauckshire",
+  "numberOfLocations": 58933
+},
+{
+  "_id": {
+    "$oid": "6615a3491983b3ca002d2be5"
+  },
+  "brandName": "Runte - Hoeger",
+  "yearFounded": 1632,
+  "headquarters": "New Skye",
+  "numberOfLocations": 47536
+},
+{
+  "_id": {
+    "$oid": "6615a3491983b3ca002d2be7"
+  },
+  "brandName": "Lockman, Quitzon and Gottlieb",
+  "yearFounded": 1631,
+  "headquarters": "Brigittebury",
+  "numberOfLocations": 14474
+},
+{
+  "_id": {
+    "$oid": "6615a3491983b3ca002d2be9"
+  },
+  "brandName": "MacGyver - Schmeler",
+  "yearFounded": 1974,
+  "headquarters": "Hattiesburg",
+  "numberOfLocations": 38452
+},
+{
+  "_id": {
+    "$oid": "6615a3491983b3ca002d2beb"
+  },
+  "brandName": "Abshire - Veum",
+  "yearFounded": 2005,
+  "headquarters": "Santa Monica",
+  "numberOfLocations": 88799
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearCreated": "1970",
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "yearFounded": 1600
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1600,
+  "yearCreated": "1970",
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "yearsFounded": "1980",
+  "yearFounded": 1600
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1600,
+  "yearCreated": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 9200,
+  "hqAddress": "DuBuqueburgh",
+  "brand": {},
+  "headquarters": "headquarters not define"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "brand": {
+    "name": "Licensed Concrete Tuna"
+  },
+  "brandName": "brandName not define"
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "brand": ""
+}]
